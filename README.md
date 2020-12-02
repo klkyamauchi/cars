@@ -1,5 +1,4 @@
 # Identifying Information
-^M 
 1. Name: Kaitlynn Yamauchi
 2. Student ID: 2382764
 3. Email: yamauchi@chapman.edu
